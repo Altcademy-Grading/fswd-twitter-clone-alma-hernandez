@@ -5,6 +5,8 @@
     "node": "^16.17"
   },
   "dependencies": {
+    "@babel/plugin-transform-private-methods": "^7.23.3",
+    "@babel/plugin-transform-private-property-in-object": "^7.23.4",
     "@babel/preset-react": "^7.16.7",
     "@rails/actioncable": "^6.0.0",
     "@rails/activestorage": "^6.0.0",
